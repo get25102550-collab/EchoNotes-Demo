@@ -21,3 +21,7 @@
 
 ## 📸 ตัวอย่างหน้าจอ
 https://github.com/get25102550-collab/EchoNotes-Demo/blob/62258b59d7d71dbaa4cd54e9e44bea3d0bd641d9/EchoNotes.swiftpm/Result%20Interface.png
+
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/54ea4a83-56fc-44eb-911b-b8d8abfc9521" />
+ Demo Video
+https://www.youtube.com/watch?v=6DKZ1JY2fHI
